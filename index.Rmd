@@ -193,13 +193,6 @@ Identify the target population and what represents an individual observations.
 
 Suppose we ask a KNURE student who happens to be in the applied math department to select several students for the study. What kind of students he might collect? Do you think his sample would be representative of all students?
 
-### Non-response bias
-
-![Non-response bias](assets/img/non-response-bias.png)
-
----
-## Sampling from a population
-
 ### Simple random sample
 
 ![Random population sampling](assets/img/population-sampling.png)
@@ -209,5 +202,5 @@ Suppose we ask a KNURE student who happens to be in the applied math department 
 
 * [Lab 0 - Introduction to R and RStudio](http://htmlpreview.github.io/?https://github.com/andrewpbray/oiLabs-base-R/blob/master/intro_to_r/intro_to_r.html)
 * Skype Chat for discussions: https://join.skype.com/gjN0CfAd4bhg
-* Reading: OpenIntro Statistics Chapter 1, p. 1.1 - 1.3.4
+* Reading: OpenIntro Statistics Chapter 1, p. 1.1 - 1.5
 * Reference Book: https://www.openintro.org/stat/textbook.php

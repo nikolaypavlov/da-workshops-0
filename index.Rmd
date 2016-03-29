@@ -14,12 +14,12 @@ knit        : slidify::knit2slides
 ## Course Logistic
 
 * Every Wednesday 19:00 - 21:00
+* Slides: http://nikolaypavlov.github.io/da-workshops-0/
 * Skype Chat: https://join.skype.com/gjN0CfAd4bhg
 * Reference Book: https://www.openintro.org/stat/textbook.php
 * Download R: http://www.r-project.org/
 * Download R Studio: http://www.rstudio.com/
 * Install the following packages: openintro
-* Download R Reference Card: http://cran.r-project.org/doc/contrib/Short-refcard.pdf
 
 ---
 ## Topics

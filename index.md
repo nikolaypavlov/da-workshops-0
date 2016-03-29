@@ -14,6 +14,7 @@ knit        : slidify::knit2slides
 ## Course Logistic
 
 * Every Wednesday 19:00 - 21:00
+* http://nikolaypavlov.github.io/da-workshops-0/
 * Skype Chat: https://join.skype.com/gjN0CfAd4bhg
 * Reference Book: https://www.openintro.org/stat/textbook.php
 * Download R: http://www.r-project.org/

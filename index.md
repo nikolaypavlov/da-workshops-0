@@ -25,11 +25,10 @@ knit        : slidify::knit2slides
 ## Topics
 
 * R programming language
+* Study design
 * Data, observations and variables
 * Relationship between variables
 * Population and sample 
-* Dependent and independent variables
-* Experimental design and sampling methods
 
 ---
 ## What is R?
